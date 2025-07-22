@@ -1,4 +1,4 @@
-Test plan -- objectives:
+## Test plan -- objectives:
 
 1- Check main features
 Make sure the user can add a task edit it mark it as completed and delete it without any problems
@@ -21,7 +21,7 @@ Make sure the app is simple to understand and use
 Test it using the keyboard and check if labels and tooltips help the user
 
 
-Test plan -- scope: 
+## Test plan -- scope: 
 
 Checking the main user action: 
 
@@ -38,7 +38,7 @@ Checking the main user action:
 A [bug report template](https://docs.google.com/spreadsheets/d/1PUR7lzE0O6wXOml7V2Kpl07oylX1K8hmaMT3U3t3A3I/edit?usp=sharing) and 2-3 example bugs based on assumed issues.
 
 
-Test cases -- Functional testing:
+## Test cases -- Functional testing:
 
 | Test Case ID | Description            | Steps                                    | Expected Result                                                           |
 | ------------ | ---------------------- | ---------------------------------------- | ------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ Test cases -- Functional testing:
 | TC3          | Delete a task          | Click Delete or Trash icon beside task | Task is removed from the list                                             |
 
 
-UI testing
+## UI testing
 
 | Test Case ID | Description                  | Steps                            | Expected Result                                   |
 | ------------ | ---------------------------- | -------------------------------- | ------------------------------------------------- |
@@ -56,7 +56,7 @@ UI testing
 
 
 
-Boundary Testing
+## Boundary Testing
 
 | Test Case ID | Description                   | Steps                                            | Expected Result                                   |
 | ------------ | ----------------------------- | ------------------------------------------------ | ------------------------------------------------- |
