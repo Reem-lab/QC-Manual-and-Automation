@@ -33,6 +33,10 @@ Checking the main user action:
 
 - Deleting a task
 
+--------------------------------------------------------------------------------------------------------------
+
+A [bug report template](https://docs.google.com/spreadsheets/d/1PUR7lzE0O6wXOml7V2Kpl07oylX1K8hmaMT3U3t3A3I/edit?usp=sharing) and 2-3 example bugs based on assumed issues.
+
 
 Test cases -- Functional testing:
 
