@@ -4,7 +4,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 import os
 
-# Change this to the path of your saved HTML file
 file_path = os.path.abspath("todo.html")
 URL = "file://" + file_path
 
