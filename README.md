@@ -6,7 +6,7 @@
 
 # To Do List Test
 
-> .This project is just to Test an app for a to Do list that you can add task and mark it as completed and you can remove what you already added.
+> This project is just to Test an app for a to Do list that you can add task and mark it as completed and you can remove what you already added.
 
 
 
