@@ -8,6 +8,14 @@
 
 > .This project is just to Test an app for a to Do list that you can add task and mark it as completed and you can remove what you already added.
 
+
+
+## Test plan -- Objectives -- Test cases - Bug report 
+
+[Test plan- objectives- test cases- bug report.pdf](https://github.com/user-attachments/files/21389664/Test.plan-.objectives-.test.cases-.bug.report.pdf)
+
+
+
 ## Built With
 
 - Languages: _**python**_
