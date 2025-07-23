@@ -12,7 +12,8 @@
 
 ## Test plan - Objectives - Test cases - Bug report 
 
-[Test plan- objectives- test cases- bug report.pdf](https://github.com/user-attachments/files/21389664/Test.plan-.objectives-.test.cases-.bug.report.pdf)
+[Test plan- objectives- test cases- bug report (1).pdf](https://github.com/user-attachments/files/21391318/Test.plan-.objectives-.test.cases-.bug.report.1.pdf)
+
 
 
 
