@@ -10,7 +10,7 @@
 
 
 
-## Test plan -- Objectives -- Test cases - Bug report 
+## Test plan - Objectives - Test cases - Bug report 
 
 [Test plan- objectives- test cases- bug report.pdf](https://github.com/user-attachments/files/21389664/Test.plan-.objectives-.test.cases-.bug.report.pdf)
 
