@@ -13,10 +13,6 @@
 
 
 
-https://github.com/user-attachments/assets/0fa2c4b3-ca74-4642-8dd0-09eb3eaa4c58
-
-
-
 ## Test plan - Objectives - Test cases - Bug report 
 
 [Test plan- objectives- test cases- bug report.pdf](https://github.com/user-attachments/files/21389664/Test.plan-.objectives-.test.cases-.bug.report.pdf)
