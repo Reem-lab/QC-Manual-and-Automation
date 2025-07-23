@@ -9,9 +9,6 @@
 > .This project is just to Test an app for a to Do list that you can add task and mark it as completed and you can remove what you already added.
 
 
-## A Video Demo for running the test script
-
-
 
 ## Test plan - Objectives - Test cases - Bug report 
 
