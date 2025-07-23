@@ -18,8 +18,8 @@
 
 ## Built With
 
-- Languages: _**python**_
-- Frameworks: _**selenium**_
+- Languages: _**python**_ is a beginner-friendly and powerful programming language that's widely used in automation data analysis and web development. In testing Python makes it easy       to write clean and readable automation scripts. Especially when combined with tools like Selenium.
+- Frameworks: _**selenium**_ is an open-source tool used for automating web browsers. It allows you to write scripts that interact with web applications just like a real user clicking      buttons entering text or verifying content—making it ideal for UI testing.
 - Technologies used: _**GIT, GITHUB, WebDriver**_
 
 ▶️ How to Run the Automation
